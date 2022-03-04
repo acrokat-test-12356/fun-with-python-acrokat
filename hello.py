@@ -1,5 +1,5 @@
 def hello_world():
-    print("hello world")
+    print("Hello world")
     
 def cats_or_dogs():
     print("dogs")
